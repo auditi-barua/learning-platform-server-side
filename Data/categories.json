@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Graphics Design"
+    },
+    {
+        "id": 2,
+        "name": "Web Design & Development" 
+    },
+    {
+        "id": 3,
+        "name": "Digital Marketing"  
+    },
+    {
+        "id": 4,
+        "name": "CPA Marketing"
+    },
+    {
+        "id": 5,
+        "name": "Affiliate Marketting"
+    },
+    {
+        "id": 6,
+        "name": "App Development" 
+    }
+]
